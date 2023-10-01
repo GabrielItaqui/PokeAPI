@@ -1,0 +1,5 @@
+com\TrainerCRUD\repository\TrainerRepository.class
+com\TrainerCRUD\Main.class
+com\TrainerCRUD\service\TrainerService.class
+com\TrainerCRUD\model\Pokemon.class
+com\TrainerCRUD\model\Trainer.class
